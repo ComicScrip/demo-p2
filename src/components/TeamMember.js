@@ -4,7 +4,7 @@ export default function TeamMember({ name, bio, githubLink }) {
   return (
     <div className={styles.card}>
       <p className={styles.name}>{name}</p>
-      <a href={githubLink}>
+      <a href={githubLink} target="_blank" rel="noreferrer">
         <img className={styles.avatar} src={`${githubLink}.png`} alt={name} />
       </a>
 
