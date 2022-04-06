@@ -13,7 +13,7 @@ En tant que ... , je souhaite ... , afin de ...
 
 ## Critères et considérations spécifiques
 
-- [ ] Conformité à l'écran "..." sur la maquette
+- [x] Conformité à l'écran "..." sur la maquette
 - [ ] ... 
 
 ## Scénarios de test
@@ -36,7 +36,7 @@ En tant que ... , je souhaite ... , afin de ...
 ## A faire
 
 - [x] Faire ci
-- [] Faire ça
+- [ ] Faire ça
 
 ## (A ne pas faire)
 
