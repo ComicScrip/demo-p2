@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  const toto = '2';
+  // const toto = '';
   return <div className="App">My App</div>;
 }
 
