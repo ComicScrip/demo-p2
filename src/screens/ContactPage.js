@@ -14,7 +14,7 @@ export default function ContactPage() {
 
     setEmail('');
     setMessage('');
-    toast("Thanks, we'll get back to you soon :)", {
+    toast('Merci ! Nous reviendrons vite vers vous :)', {
       position: 'bottom-center',
       theme: 'light',
       type: 'success',

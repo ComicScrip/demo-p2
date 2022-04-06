@@ -21,7 +21,7 @@
 .submitBtn {
   margin-top: 20px;
   width: 100%;
-  background-color: rgb(120, 180, 239);
+  background-color: orange;
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -31,5 +31,5 @@
 }
 
 .submitBtn:hover {
-  background-color: rgb(150, 192, 235);
+  background-color: rgb(250, 186, 67);
 }
