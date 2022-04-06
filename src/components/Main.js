@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 import Home from '../screens/Home';
 import Contact from '../screens/Contact';
-import About from '../screens/About';
+import About from '../screens/AboutPage';
 
 export default function Main() {
   return (
