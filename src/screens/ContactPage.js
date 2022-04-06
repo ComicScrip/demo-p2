@@ -1,8 +1,12 @@
+import { ToastContainer, toast } from 'react-toastify';
 import { useState } from 'react';
+
+import 'react-toastify/dist/ReactToastify.css';
 import styles from './ContactPage.module.css';
 
 export default function ContactPage() {
   const [email, setEmail] = useState('');
+
   const [message, setMessage] = useState('');
 
   const handleSubmit = (e) => {
@@ -10,6 +14,11 @@ export default function ContactPage() {
 
     setEmail('');
     setMessage('');
+    toast("Thanks, we'll get back to you soon :)", {
+      position: 'bottom-center',
+      theme: 'light',
+      type: 'success',
+    });
   };
 
   return (
@@ -42,6 +51,7 @@ export default function ContactPage() {
           Envoyer
         </button>
       </form>
+      <ToastContainer />
     </div>
   );
 }
