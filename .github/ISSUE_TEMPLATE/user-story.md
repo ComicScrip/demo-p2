@@ -1,11 +1,13 @@
 ---
 name: User Story
-about: Suggest an idea for this project
-title: 'US : titre de mon histoire'
+about: Décris une histoire utilisateur
+title: ''
 labels: ''
 assignees: ''
 
 ---
+
+# Le besoin
 
 En tant que ... , je souhaite ... , afin de ...
 
@@ -18,7 +20,7 @@ En tant que ... , je souhaite ... , afin de ...
 
 ### Cas d'utilisation 1
 
-#### Actions
+#### Actions à réaliser
 
 - se rendre sur la page "..." accessible depuis l'URL `/ce/chemin`
 - remplir tel champ avec telle info
@@ -27,18 +29,16 @@ En tant que ... , je souhaite ... , afin de ...
 
 #### Verifications
 
-- [ ] On voit bien ceci apparaitre à l'écran
-- [ ] Il se passe bien cela
-- ...
+- [x] On voit bien ceci apparaitre à l'écran
+- [x] Il se passe bien cela à ce moment
+- [x] ..
 
 ## A faire
 
-- Faire ci
-- Faire ça
-- ...
+- [x] Faire ci
+- [] Faire ça
 
 ## (A ne pas faire)
 
 - Ceci sort du scope : ...
-- Prêter attention à ce que : ...
 - ...
