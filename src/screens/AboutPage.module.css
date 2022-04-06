@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.memberList{
+.memberList {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
