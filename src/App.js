@@ -1,12 +1,15 @@
 import './App.css';
-import AboutPage from './screens/AboutPage';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Main from './components/Main';
 
 function App() {
-  // const toto = '';
   return (
-    <div className="App">
-      <AboutPage />
-    </div>
+    <>
+      <Header />
+      <Main />
+      <Footer />
+    </>
   );
 }
 
