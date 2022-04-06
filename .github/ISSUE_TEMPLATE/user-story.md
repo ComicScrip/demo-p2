@@ -31,5 +31,5 @@ En tant que ..., je souhaite ..., afin de ...
 
 ## Reste a faire
 
-- [] Faire ci
-- [] Faire ça
+[ ] Faire ci
+[ ] Faire ça
