@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
-import Home from '../screens/Home';
-import Contact from '../screens/Contact';
+import Home from '../screens/HomePage';
+import Contact from '../screens/ContactPage';
 import About from '../screens/AboutPage';
 
 export default function Main() {
