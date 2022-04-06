@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-## Story
+# Story
+
 
 En tant que ..., je souhaite ..., afin de ...
 
@@ -29,7 +30,7 @@ En tant que ..., je souhaite ..., afin de ...
 
 ...
 
-## Reste a faire
+## A faire
 
-[ ] Faire ci
-[ ] Faire ça
+- Faire ci
+- Faire ça
